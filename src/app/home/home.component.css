@@ -196,6 +196,7 @@ a:focus-visible {
   .top-flex {
     flex-direction: column;
     text-align: center;
+    align-items: center;
   }
 
   .why-grid {
