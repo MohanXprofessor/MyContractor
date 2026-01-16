@@ -63,6 +63,7 @@ body {
   display: flex;
   align-items: center;
   gap: 12px;
+  cursor: pointer;
 }
 
 .brand-logo {
@@ -88,6 +89,7 @@ body {
   text-decoration: none;
   color: #1f1f1f;
   font-weight: 500;
+  cursor: pointer;
 }
 
 .nav a:hover {
